@@ -3,7 +3,7 @@
   "%Name":"spr_tileset_world",
   "bboxMode":0,
   "bbox_bottom":1151,
-  "bbox_left":126,
+  "bbox_left":128,
   "bbox_right":1535,
   "bbox_top":0,
   "collisionKind":1,

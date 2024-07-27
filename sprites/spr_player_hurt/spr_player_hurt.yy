@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_hurt",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":267,
   "bbox_left":19,
   "bbox_right":155,
@@ -26,7 +26,7 @@
   ],
   "name":"spr_player_hurt",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Player",
     "path":"folders/Sprites/Player.yy",
@@ -88,7 +88,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":90,
-    "yorigin":135,
+    "yorigin":270,
   },
   "swatchColours":null,
   "swfPrecision":2.525,

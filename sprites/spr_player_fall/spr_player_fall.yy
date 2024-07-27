@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_fall",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":298,
   "bbox_left":15,
   "bbox_right":202,
@@ -24,7 +24,7 @@
   ],
   "name":"spr_player_fall",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Player",
     "path":"folders/Sprites/Player.yy",
@@ -80,7 +80,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":103,
-    "yorigin":150,
+    "yorigin":300,
   },
   "swatchColours":[
     4278190335,4290432907,4278255360,4294967040,4294901760,4294902015,4294967295,4293717228,4293059298,4292335575,

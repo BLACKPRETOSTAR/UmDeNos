@@ -32,7 +32,7 @@
   ],
   "name":"spr_player_attack1",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Player",
     "path":"folders/Sprites/Player.yy",
@@ -112,7 +112,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":218,
-    "yorigin":166,
+    "yorigin":333,
   },
   "swatchColours":null,
   "swfPrecision":2.525,

@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_hud_background",
-    "path":"sprites/spr_hud_background/spr_hud_background.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
