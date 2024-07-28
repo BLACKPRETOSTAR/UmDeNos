@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_attack2",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":299,
   "bbox_left":16,
   "bbox_right":299,

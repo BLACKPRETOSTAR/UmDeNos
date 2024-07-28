@@ -4,7 +4,7 @@
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_attack1","path":"objects/obj_attack1/obj_attack1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_enemy2",
@@ -14,8 +14,8 @@
     "path":"folders/Objects/Characters/Enemies.yy",
   },
   "parentObjectId":{
-    "name":"obj_enemy1_parent",
-    "path":"objects/obj_enemy1_parent/obj_enemy1_parent.yy",
+    "name":"obj_enemy2_parent",
+    "path":"objects/obj_enemy2_parent/obj_enemy2_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

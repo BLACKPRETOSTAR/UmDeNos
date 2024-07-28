@@ -1,7 +1,7 @@
 event_inherited();
 
 
-global.enemy2_health = 10
+enemy2_health = 40
 
 
 

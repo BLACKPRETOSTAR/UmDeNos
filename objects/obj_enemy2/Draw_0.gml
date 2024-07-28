@@ -1,2 +1,2 @@
 draw_self()
-draw_text(x, y - sprite_height, (global.enemy2_health))
+draw_text(x, y - sprite_height, (enemy2_health))

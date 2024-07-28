@@ -6,8 +6,8 @@
   "name":"obj_room",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera",
-    "path":"folders/Objects/Camera.yy",
+    "name":"Player",
+    "path":"folders/Objects/Characters/Player.yy",
   },
   "parentObjectId":null,
   "persistent":false,

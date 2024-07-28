@@ -1,5 +1,7 @@
 event_inherited();
 
+life = 10
+
 // This is the object that replaces the enemy once it is defeated.
 defeated_object = obj_enemy1_defeated;
 
