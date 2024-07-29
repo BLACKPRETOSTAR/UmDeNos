@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_player_attack1",
+    "path":"sprites/spr_player_attack1/spr_player_attack1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
